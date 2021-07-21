@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there👏👏👏
+I’m Eason Yang, a Java(Heavily)/Kotlin(Sometimes)/Go(Fell in love)/PHP(Used to love) **backend engineer** based in Beijing, China.
+Additionally, I’m a big fan of front-end technologies and you can call me a **professional amateur front-end developer**.
 
-<!--
-**MrEasonYang/MrEasonYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is what I’m mainly interested in:
+- Distributed system with concurrency.
+- Application high availability.
+- Serverless and FaaS.
+- Productivity Tools.
 
-Here are some ideas to get you started:
+You can find my posts and thoughts here:
+- Blog: [Eason Yang’s Blog](https://easonyang.com)
+- Twitter: [mr_easonyang](https://twitter.com/mr_easonyang)
+- WeChat Official Account: [ju1de1](https://gmiimg.com/5febe9b1bd572e22c56bfbc1d3bfd1e9.bmp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For visitors using Chinese, check this CN-README out: [中文个人简介](https://easonyang.com/about/)
+
+![](https://github-readme-stats.vercel.app/api?username=MrEasonYang&theme=onedark)
