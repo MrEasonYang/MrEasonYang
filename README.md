@@ -13,6 +13,9 @@ You can find my posts and thoughts here:
 - Twitter: [mr_easonyang](https://twitter.com/mr_easonyang)
 - WeChat Official Account: [ju1de1](https://gmiimg.com/5febe9b1bd572e22c56bfbc1d3bfd1e9.bmp)
 
+Feel free to raise an issue or send an email to contact me:
+- Email: me#easonyang.com
+
 For visitors using Chinese, check this CN-README out: [中文个人简介](https://easonyang.com/about/)
 
 ![](https://github-readme-stats.vercel.app/api?username=MrEasonYang&theme=onedark)
