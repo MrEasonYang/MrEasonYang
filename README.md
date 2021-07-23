@@ -1,5 +1,10 @@
 ### Hi there👏👏👏
-I’m Eason Yang, a Java(Heavily)/Kotlin(Sometimes)/Go(Fell in love)/PHP(Used to love) **backend engineer** based in Beijing, China.
+I’m Eason Yang, a **backend engineer** based in Beijing, China using:
+- Java(Heavily)😂
+- Kotlin(Sometimes)🤔
+- Go(Fell in love)😍
+- PHP(Used to love) 😉
+
 Additionally, I’m a big fan of front-end technologies and you can call me a **professional amateur front-end developer**.
 
 Here is what I’m mainly interested in:
