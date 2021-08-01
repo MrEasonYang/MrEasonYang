@@ -23,6 +23,6 @@ Feel free to raise an issue or send an email to contact me:
 
 For visitors using Chinese, check this CN-README out: [中文个人简介](https://easonyang.com/about/)
 
-![Stats](https://github-readme-stats-eason.vercel.app/api?username=MrEasonYang&theme=onedark)
+![Stats](https://easonyang.com/codes/stats)
 
-![Langs](https://github-readme-stats-eason.vercel.app/api/top-langs/?username=MrEasonYang&exclude_repo=cstc-oa-system,wechatScratcher,estate-management-system&theme=onedark)
+![Langs](https://easonyang.com/codes/langs)
