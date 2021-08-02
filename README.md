@@ -23,6 +23,6 @@ Feel free to raise an issue or send an email to contact me:
 
 For visitors using Chinese, check this CN-README out: [中文个人简介](https://easonyang.com/about/)
 
-![Stats](https://easonyang.com/codes/stats)
+![Stats](https://easonyang.com/coding/stats)
 
-![Langs](https://easonyang.com/codes/langs)
+![Langs](https://easonyang.com/coding/langs)
