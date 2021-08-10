@@ -17,6 +17,7 @@ You can find my posts and thoughts here:
 - Blog: [Eason Yang’s Blog](https://easonyang.com)
 - Twitter: [mr_easonyang](https://twitter.com/mr_easonyang)
 - WeChat Official Account: [ju1de1](https://gmiimg.com/5febe9b1bd572e22c56bfbc1d3bfd1e9.bmp)
+- Newsletter: [Eason Yang's Newsletter](https://letter.easonyang.com)
 
 Feel free to raise an issue or send an email to contact me:
 - Email: me#easonyang.com
